@@ -2,7 +2,7 @@
   "name": "malovinivtrivia.github.io",
   "version": "1.0.0",
   "main": "app.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --watch app.js"
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/MaloviniV/maloviniVTrivia.github.io#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "malovinivtrivia.github.io": "file:"
   }
 }
